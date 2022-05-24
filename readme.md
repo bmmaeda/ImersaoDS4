@@ -6,27 +6,32 @@
   4º Imersão de Dados Alura<br/><br/>
 </h1>
 
-Português | [Inglês](readme-en_us.) |
-
+  Português | [Inglês](readme-en_us.) |
 <br/>
 
 ## Sumário
 
+- [Conceito](#conceito)
 - [Sobre o projeto](#sobre-o-projeto)
-- [Objetivos](#objetivos)
-- [Aulas](#aulas)
   - [Aula 01](#aula-01)
   - [Aula 02](#aula-02)
   - [Aula 03](#aula-03)
   - [Aula 04](#aula-04)
   - [Aula 05](#aula-05)
-- [Conclusão](#set-up-a-production-environment)
-- [Softwares](#softwares)
+- [Conclusão](#conclusão)
+- [Softwares](#softwares-e-bibliotecas)
 - [Outro projetos](#conheça-meus-outros-projetos)
+
+
+## Conceito
+
+O Imersão dos Dados é um desafio de data science focado no aprendizado de acelerado, usando problemas encontrados nas empresas.
 
 ## Sobre o projeto
 
-**[Terra](https://terra.money)** is a public, open-source, proof-of-stake blockchain. **The Terra Core** is the reference implementation of the Terra protocol written in Golang. The Terra Core is powered by the [Cosmos SDK](https://github.com/cosmos/cosmos-sdk) and [Tendermint](https://github.com/tendermint/tendermint) BFT consensus.
+O dataset selecionado pelos instrutores foi  
+
+## Aula 01
 
    For Windows:
 
@@ -36,28 +41,24 @@ Português | [Inglês](readme-en_us.) |
    export PATH=$PATH:/usr/local/go/bin
    export PATH=$PATH:$(go env GOPATH)/bin
    ```
+  Base de dados utilizado na aula : https://gist.githubusercontent.com/tgcsantos/3bdb29eba6ce391e90df2b72205ba891/raw/22fa920e80c9fa209a9fccc8b52d74cc95d1599b/dados_imoveis.csv
+  
+## Conclusão
 
-
-## `terrad`
-
-`terrad` is the all-in-one CLI and node daemon for interacting with the Terra blockchain.
-
-## Objetivos
-
-**[Terra](https://terra.money)** is a public, open-source, proof-of-stake blockchain. **The Terra Core** is the reference implementation of the Terra protocol written in Golang. The Terra Core is powered by the [Cosmos SDK](https://github.com/cosmos/cosmos-sdk) and [Tendermint](https://github.com/tendermint/tendermint) BFT consensus.
-
-## Aulas
-
-As aulas e os desafios de cada módulo foram divididas de forma a haver uma progressão natural do aluno, trazendo conteúdo do mais básico ao avançado confirme as aulas forem saindo.
+As aulas e os desafios de cada módulo foram divididas de forma a haver uma progressão natural do aluno, trazendo conteúdo do básico ao avançado.
 
 Se você gostou do projeto ou tem alguma sugestão acesse o [site](https://dastratus.com.br) mande um e-mail para bruno@dastratus.com.br.
 
 ## Softwares e Bibliotecas
 
 Jupyter Notebook
+
 Pandas
+
 Google Colab
+
 Matplotlib
+
 Seaborn
 
 ## Conheça meus outros projetos
