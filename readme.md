@@ -1,5 +1,3 @@
-<p>&nbsp;</p>
-
 <p align="center">
   <img src="pexels-gustavo-juliette.jpg" width=1280>
 </p>
@@ -11,10 +9,6 @@
 Português | [Inglês](readme-en_us.) |
 
 <br/>
-
-## Conheça os meus outros projetos
-
-Visite o meu [site](https://dastratus.com.br/) para saber mais sobre mim ou sobre outros projetos.
 
 ## Sumário
 
@@ -28,6 +22,7 @@ Visite o meu [site](https://dastratus.com.br/) para saber mais sobre mim ou sobr
   - [Aula 05](#aula-05)
 - [Conclusão](#set-up-a-production-environment)
 - [Softwares](#softwares)
+- [Outro projetos](#conheça-meus-outros-projetos)
 
 ## Sobre o projeto
 
@@ -57,13 +52,20 @@ As aulas e os desafios de cada módulo foram divididas de forma a haver uma prog
 
 Se você gostou do projeto ou tem alguma sugestão acesse o [site](https://dastratus.com.br) mande um e-mail para bruno@dastratus.com.br.
 
-## Softwares
+## Softwares e Bibliotecas
 
-This software is [licensed under the Apache 2.0 license](LICENSE).
+Jupyter Notebook
+Pandas
+Google Colab
+Matplotlib
+Seaborn
+
+## Conheça meus outros projetos
+
+Visite o meu [site](https://dastratus.com.br/) para saber mais sobre mim ou sobre outros projetos.
 
 © 2022 Bruno Maeda,
 
-<p>&nbsp;</p>
 <p align="center">
     <a href="https://dastratus.com.br/"><img src="logo-dastratus-nw.png" align="center" width=100/></a>
 </p>
