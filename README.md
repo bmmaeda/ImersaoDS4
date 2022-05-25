@@ -3,10 +3,9 @@
 </p>
 
 <h1 align="center">
-  4º Imersão de Dados Alura<br/><br/>
+  Imersão de Dados Alura<br/><br/>
 </h1>
 
-  Português | [Inglês](readme-en_us.) |
 <br/>
 
 ## Sumário
@@ -22,17 +21,21 @@
 - [Softwares](#softwares-e-bibliotecas)
 - [Outro projetos](#conheça-meus-outros-projetos)
 
+<br/>
 
 ## Conceito
 
 O Imersão dos Dados é um desafio de data science focado no aprendizado de acelerado, usando problemas encontrados nas empresas.
+<br/>
 
 ## Sobre o projeto
 
-O dataset selecionado pelos instrutores foi  
+O projeto consiste na análise de dados sobre imóveis na cidade de São Paulo. Essa análise foi dividida em 5(cinco) partes, cada uma delas controe um pedaço do desafio, sendo implementando uma nova ferramenta ou na respondendo alguma hipótese. 
+<br/>
 
 ## Aula 01
 
+Nessa primeira parte 
    For Windows:
 
    ```sh
@@ -48,6 +51,7 @@ O dataset selecionado pelos instrutores foi
 As aulas e os desafios de cada módulo foram divididas de forma a haver uma progressão natural do aluno, trazendo conteúdo do básico ao avançado.
 
 Se você gostou do projeto ou tem alguma sugestão acesse o [site](https://dastratus.com.br) mande um e-mail para bruno@dastratus.com.br.
+<br/>
 
 ## Softwares e Bibliotecas
 
@@ -60,10 +64,11 @@ Google Colab
 Matplotlib
 
 Seaborn
-
+<br/>
 ## Conheça meus outros projetos
 
 Visite o meu [site](https://dastratus.com.br/) para saber mais sobre mim ou sobre outros projetos.
+<br/>
 
 © 2022 Bruno Maeda,
 
