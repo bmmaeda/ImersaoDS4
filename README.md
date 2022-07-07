@@ -33,7 +33,7 @@ O projeto consiste na análise de dados sobre imóveis na cidade de São Paulo. 
   Base de dados utilizado na aula : https://gist.githubusercontent.com/tgcsantos/3bdb29eba6ce391e90df2b72205ba891/raw/22fa920e80c9fa209a9fccc8b52d74cc95d1599b/dados_imoveis.csv
 
 
-Se você gostou do projeto ou tem alguma sugestão acesse o [site](https://dastratus.com.br) mande um e-mail para bruno@dastratus.com.br.
+Se você gostou do projeto ou tem alguma sugestão acesse o [site](https://brasiot.com.br) mande um e-mail para bruno@dastratus.com.br.
 <br/>
 
 ## Softwares e Bibliotecas
@@ -50,7 +50,7 @@ Seaborn
 <br/>
 ## Conheça meus outros projetos
 
-Visite o meu [site](https://dastratus.com.br/) para saber mais sobre mim ou sobre outros projetos.
+Visite o meu [site](https://brasiot.com.br) para saber mais sobre mim ou sobre outros projetos.
 <br/>
 
 © 2022 Bruno Maeda,
