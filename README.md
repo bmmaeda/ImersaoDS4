@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Imersão de Dados Alura<br/><br/>
+  Imersão de Dados Alura - Em construção<br/><br/>
 </h1>
 
 <br/>
@@ -13,11 +13,6 @@
 - [Conceito](#conceito)
 - [Sobre o projeto](#sobre-o-projeto)
   - [Aula 01](#aula-01)
-  - [Aula 02](#aula-02)
-  - [Aula 03](#aula-03)
-  - [Aula 04](#aula-04)
-  - [Aula 05](#aula-05)
-- [Conclusão](#conclusão)
 - [Softwares](#softwares-e-bibliotecas)
 - [Outro projetos](#conheça-meus-outros-projetos)
 
@@ -30,25 +25,13 @@ O Imersão dos Dados é um desafio de data science focado no aprendizado de acel
 
 ## Sobre o projeto
 
-O projeto consiste na análise de dados sobre imóveis na cidade de São Paulo. Essa análise foi dividida em 5(cinco) partes, cada uma delas controe um pedaço do desafio, sendo implementando uma nova ferramenta ou na respondendo alguma hipótese. 
+O projeto consiste na análise de dados sobre imóveis na cidade de São Paulo. Essa análise foi dividida em 5(cinco) partes, cada uma delas controe um pedaço do desafio, sendo implementando uma nova ferramenta ou respondendo alguma hipótese ou pergunta. 
 <br/>
 
 ## Aula 01
 
-Nessa primeira parte 
-   For Windows:
-
-   ```sh
-   wget <https://golang.org/dl/go1.18.2.linux-amd64.tar.gz>
-   sudo tar -C /usr/local -xzf go1.18.2.linux-amd64.tar.gz
-   export PATH=$PATH:/usr/local/go/bin
-   export PATH=$PATH:$(go env GOPATH)/bin
-   ```
   Base de dados utilizado na aula : https://gist.githubusercontent.com/tgcsantos/3bdb29eba6ce391e90df2b72205ba891/raw/22fa920e80c9fa209a9fccc8b52d74cc95d1599b/dados_imoveis.csv
-  
-## Conclusão
 
-As aulas e os desafios de cada módulo foram divididas de forma a haver uma progressão natural do aluno, trazendo conteúdo do básico ao avançado.
 
 Se você gostou do projeto ou tem alguma sugestão acesse o [site](https://dastratus.com.br) mande um e-mail para bruno@dastratus.com.br.
 <br/>
