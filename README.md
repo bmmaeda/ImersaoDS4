@@ -25,7 +25,9 @@ O Imersão dos Dados é um desafio de data science focado no aprendizado de acel
 
 ## Sobre o projeto
 
-O projeto consiste na análise de dados sobre imóveis na cidade de São Paulo. Essa análise foi dividida em 5(cinco) partes, cada uma delas controe um pedaço do desafio, sendo implementando uma nova ferramenta ou respondendo alguma hipótese ou pergunta. 
+O projeto consiste na análise de dados sobre imóveis na cidade de São Paulo. 
+
+Essa análise foi dividida em 5(cinco) partes, cada uma delas constroe um pedaço do desafio, seja implementando uma nova ferramenta ou respondendo alguma hipótese ou pergunta. 
 <br/>
 
 ## Aula 01
